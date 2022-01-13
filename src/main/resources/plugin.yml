@@ -1,0 +1,7 @@
+name: "StartupWorldDeleter"
+version: '${version}'
+main: "me.byteful.plugin.swd.StartupWorldDeleterPlugin"
+api-version: 1.13
+author: byteful
+description: "Deletes configured Bukkit worlds on server startup."
+load: STARTUP

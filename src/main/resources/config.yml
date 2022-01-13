@@ -1,0 +1,12 @@
+#
+# StartupWorldDeleter v${version} by byteful#0001
+#
+
+# Save worlds that are loaded when StartupWorldDeleter is loaded.
+save: false
+
+# The worlds to automatically delete on server startup.
+worlds:
+  - "world"
+  - "world_nether"
+  - "world_the_end"
